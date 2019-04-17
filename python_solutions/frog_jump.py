@@ -2,7 +2,6 @@
 
 
 def solution(X, Y, D):
-    steps = 0
     if X == Y:
         return 0
     else:
