@@ -1,4 +1,4 @@
-// For more information about the task see codility.com
+// For more information about the task see codility.com; class name and the file name do not match each other
 // Frog Jump
 
 
